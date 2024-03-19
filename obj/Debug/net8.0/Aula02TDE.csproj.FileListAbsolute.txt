@@ -1,0 +1,14 @@
+C:\Users\Movecel\Aula02TDE\bin\Debug\net8.0\Aula02TDE.exe
+C:\Users\Movecel\Aula02TDE\bin\Debug\net8.0\Aula02TDE.deps.json
+C:\Users\Movecel\Aula02TDE\bin\Debug\net8.0\Aula02TDE.runtimeconfig.json
+C:\Users\Movecel\Aula02TDE\bin\Debug\net8.0\Aula02TDE.dll
+C:\Users\Movecel\Aula02TDE\bin\Debug\net8.0\Aula02TDE.pdb
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.AssemblyInfoInputs.cache
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.AssemblyInfo.cs
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.csproj.CoreCompileInputs.cache
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.dll
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\refint\Aula02TDE.dll
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.pdb
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\Aula02TDE.genruntimeconfig.cache
+C:\Users\Movecel\Aula02TDE\obj\Debug\net8.0\ref\Aula02TDE.dll
